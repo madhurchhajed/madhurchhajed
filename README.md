@@ -2,7 +2,7 @@
 ### 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=madhurchhajed" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurchhajed" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurchhajed&layout=compact" />
 
 <!--
 **madhurchhajed/madhurchhajed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
