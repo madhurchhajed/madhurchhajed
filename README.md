@@ -2,7 +2,7 @@
 ### 
 <!-- ![](https://komarev.com/ghpvc/?username=madhurchhajed&color=green) -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=madhurchhajed&include_all_commits=true&count_private=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurchhajed&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhurchhajed&layout=compact"/>
 
 <!--
 **madhurchhajed/madhurchhajed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
